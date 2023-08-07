@@ -1,4 +1,4 @@
-module github.com/hairyhenderson/caddy-teapot-module
+module github.com/wildcardcorp/caddy-teapot-module
 
 go 1.20
 
