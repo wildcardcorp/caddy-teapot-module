@@ -2,7 +2,7 @@ module github.com/wildcardcorp/caddy-teapot-module
 
 go 1.20
 
-require github.com/caddyserver/caddy/v2 v2.7.3
+require github.com/caddyserver/caddy/v2 v2.7.2
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
